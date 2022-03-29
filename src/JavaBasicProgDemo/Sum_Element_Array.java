@@ -7,14 +7,13 @@ public class Sum_Element_Array {
 		
 	//sum of the element of the given array
 		
-		int num[]= {3,4,6,7};
+		int num[]= {1,4,5,7};
 		
-		int sum = 0;
-		
+		int sum=0;
 		for(int i=0; i<=num.length-1; i++) {
 		sum = sum +num[i];
-		}
 		
+		}
 		
 	System.out.println("Sum of element of the array " +sum);
 	}

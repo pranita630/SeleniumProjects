@@ -17,6 +17,7 @@ public class CountOfEvenOddDigitNum {
 				even_num_count++;
 				
 				
+				
 			}
 			else {
 				odd_num_count++;

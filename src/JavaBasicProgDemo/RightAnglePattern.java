@@ -27,8 +27,5 @@ public class RightAnglePattern {
 			System.out.println();
 		}
 		
-	
-	
-
 }
 }

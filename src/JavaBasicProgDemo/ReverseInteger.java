@@ -26,10 +26,6 @@ public class ReverseInteger {
 		
 		System.out.println("Reverse Value is " +sb.reverse());
 		
-		
-		
-		
-		
          
 	}
 	
